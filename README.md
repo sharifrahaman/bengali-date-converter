@@ -15,4 +15,4 @@ There are twelve months in Bengali calendar. Those are BOISHAKH, JYOISHTHO, ASHA
 Source: <a href="https://en.wikipedia.org/wiki/Bengali_calendar">Wikipedia</a>
 
 #Live Example
-Coming soon.....
+<a href="http://bdc-softdaemon.rhcloud.com/">Live Example</a>
